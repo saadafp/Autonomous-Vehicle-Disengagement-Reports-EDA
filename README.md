@@ -73,12 +73,12 @@ Install them using pip:
 pip install pandas numpy matplotlib seaborn python-dateutil
 
 ```
-Dataset
+## Dataset license / copyright:
 Source: https://www.kaggle.com/datasets/art12400/2019-autonomous-vehicle-disengagement-reports
+license : https://www.usa.gov/government-copyright
 
-File: 2019AutonomousVehicleDisengagementReports.csv
 
-Notes
+## Notes
 This notebook focuses on data cleaning and initial exploration
 
 Further analysis (e.g., visualizations, statistical insights) can be extended based on specific research questions
